@@ -1,3 +1,5 @@
-### Hola everyone, I'm Ren 💮
+### Hola everyone, I'm Ren. 💮
 
-— [Contact Me](https://discord.gg/FzECNwmfJS)
+[1[Website](https://discord.gg/FzECNwmfJS)
+
+## I'm a Owner and Developer of a bot in Discord.
