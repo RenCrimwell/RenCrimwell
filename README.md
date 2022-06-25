@@ -16,7 +16,7 @@
 
 ㅤ—ㅤI'm from countryyy ummm I better not tell. ;D
 
-ㅤ—ㅤI study at [King's College International School Bangkok](https://www.kingsbangkok.ac.th/en)
+ㅤ—ㅤI study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
 
 ㅤ—ㅤAnd I like to sleep very much.
 
