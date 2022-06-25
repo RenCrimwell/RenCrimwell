@@ -7,7 +7,8 @@
 
 # My GitHub Stats
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />
+<img height="100px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="RenCrimwell" />
+
 # My Languages :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
