@@ -20,7 +20,7 @@ I'm from countryyy ummm I better not tell. ;D
 
 I study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
 
-And I like to sleep very much.
+And I like to sleep very much. ♡︎
 
 # My GitHub Stats
 
