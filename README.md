@@ -1,3 +1,5 @@
+<div align="center" >
+  
 # Hola everyone <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> , I'm Ren!!
 
 ㅤ—ㅤI'm the owner and developer of a bot in Discord.
@@ -21,6 +23,7 @@
 ㅤ—ㅤAnd I like to sleep very much.
 
 # My GitHub Stats :
+
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="15%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="15%">
