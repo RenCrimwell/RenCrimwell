@@ -24,7 +24,7 @@ And I like to sleep very much.
 
 # My GitHub Stats
 
-<img height="90px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="Ren" />
+<img height="90px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp; <img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="Ren" />
 
 # My Languages
 
