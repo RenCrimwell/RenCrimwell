@@ -5,7 +5,7 @@
 
 ㅤBut if you want to use my bot  You can invite my bots at [Invite My Bot,](https://discord.com/oauth2/authorize?client_id=943496901356052500&permissions=517006163191&scope=bot%20applications.commands) if there is a bug please notify the [Support Server.](https://discord.gg/MATK5fQnRu)
 
- Thank you for your support in advance.
+ㅤThank you for your support in advance.
 
 # My GitHub Stats :
 
