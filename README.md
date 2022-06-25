@@ -2,25 +2,25 @@
   
 # Hola everyone <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> , I'm Ren!!
 
-ㅤ—ㅤI'm the owner and developer of a bot in Discord.
+I'm the owner and developer of a bot in Discord.
 
-ㅤ—ㅤI want to make my bot successful,  And I want to make my bot even better,  If you have any suggestions, Please to contact me in [Contact Ren.](https://discord.gg/FzECNwmfJS) 
+I want to make my bot successful,  And I want to make my bot even better,  If you have any suggestions, Please to contact me in [Contact Ren.](https://discord.gg/FzECNwmfJS) 
 
-ㅤ—ㅤBut if you want to use my bot  You can invite my bots at [Invite My Bot,](https://discord.com/oauth2/authorize?client_id=943496901356052500&permissions=517006163191&scope=bot%20applications.commands) if there is a bug please notify the [Support Server.](https://discord.gg/MATK5fQnRu)
+But if you want to use my bot  You can invite my bots at [Invite My Bot,](https://discord.com/oauth2/authorize?client_id=943496901356052500&permissions=517006163191&scope=bot%20applications.commands) if there is a bug please notify the [Support Server.](https://discord.gg/MATK5fQnRu)
 
-ㅤ—ㅤThank you for your support in advance.
+Thank you for your support in advance.
 
 # About Me :
 
-ㅤ—ㅤMy name is Ren and My Surname is Crimwell. ( It may not be true ;D )
+My name is Ren and My Surname is Crimwell. ( It may not be true ;D )
 
-ㅤ—ㅤI'm 18 years old. :0
+I'm 18 years old. :0
 
-ㅤ—ㅤI'm from countryyy ummm I better not tell. ;D
+I'm from countryyy ummm I better not tell. ;D
 
-ㅤ—ㅤI study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
+I study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
 
-ㅤ—ㅤAnd I like to sleep very much.
+And I like to sleep very much.
 
 # My GitHub Stats :
 
