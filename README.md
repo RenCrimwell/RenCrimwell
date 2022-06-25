@@ -1,4 +1,4 @@
-# Hola everyone, I'm Ren  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></a>
+# Hola everyone <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></a> , I'm Ren!!
 
 ㅤ—ㅤI'm the owner and developer of a bot in Discord.
 
