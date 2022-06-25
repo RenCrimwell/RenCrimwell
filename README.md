@@ -1,4 +1,4 @@
-## Hola everyone, I'm Ren. 💮
+# Hola everyone, I'm Ren. 💮
 
 [Contact Me on Discord](https://discord.gg/FzECNwmfJS)
 
