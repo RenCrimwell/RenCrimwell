@@ -1,4 +1,5 @@
 # Hola everyone, I'm Ren!!
+
 ㅤI'm the owner and developer of a bot in Discord.
 
 ㅤI want to make my bot successful,  And I want to make my bot even better,  If you have any suggestions, Please to contact me in [Contact Ren.](https://discord.gg/FzECNwmfJS) 
@@ -8,15 +9,17 @@
 ㅤThank you for your support in advance.
 
 # About Me
-ㅤ- My name is Ren and My Surname is Crimwell. ( It may not be true ;D )
 
-ㅤ- I'm 18 years old. :0
+ㅤ—ㅤMy name is Ren and My Surname is Crimwell. ( It may not be true ;D )
 
-ㅤ- I'm from countryyy ummm I better not tell. ;D
+ㅤ—ㅤI'm 18 years old. :0
 
-ㅤ- I study at [King's College International School Bangkok](https://www.kingsbangkok.ac.th/en)
+ㅤ—ㅤI'm from countryyy ummm I better not tell. ;D
 
-ㅤ- And i like to sleep very much.
+ㅤ—ㅤI study at [King's College International School Bangkok](https://www.kingsbangkok.ac.th/en)
+
+ㅤ—ㅤAnd i like to sleep very much.
+
 # My GitHub Stats :
 
 <img height="90px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="RenCrimwell" />
