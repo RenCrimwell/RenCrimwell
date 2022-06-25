@@ -18,7 +18,7 @@
 
 ㅤ—ㅤI study at [King's College International School Bangkok](https://www.kingsbangkok.ac.th/en)
 
-ㅤ—ㅤAnd i like to sleep very much.
+ㅤ—ㅤAnd I like to sleep very much.
 
 # My GitHub Stats :
 
