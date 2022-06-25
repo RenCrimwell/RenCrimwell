@@ -8,7 +8,7 @@
 ㅤThank you for your support in advance.
 
 # About Me
-ㅤMy name is Ren Surname is Crimwell ( It may not be true ;D )
+ㅤMy name is Ren and My Surname is Crimwell ( It may not be true ;D )
 
 ㅤI'm 18 years old :0
 
