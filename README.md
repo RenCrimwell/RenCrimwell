@@ -10,7 +10,7 @@ But if you want to use my bot  You can invite my bots at [Invite My Bot,](https:
 
 Thank you for your support in advance.
 
-# About Me :
+# About Me
 
 My name is Ren and My Surname is Crimwell. ( It may not be true ;D )
 
@@ -22,18 +22,18 @@ I study at [King's College International School Bangkok.](https://www.kingsbangk
 
 And I like to sleep very much.
 
-# My GitHub Stats :
+# My GitHub Stats
 
 <img height="90px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="Ren" />
 
-# My Languages :
+# My Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-# My Tools :
+# My Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
