@@ -7,6 +7,13 @@
 
 ㅤThank you for your support in advance.
 
+# About Me
+ㅤMy name is Ren Surname is Crimwell ( It may not be true ;D )
+
+ㅤI'm 18 years old :0
+
+ㅤI'm from countryyy ummm I better not tell ;D
+
 # My GitHub Stats :
 
 <img height="90px" src="https://github-readme-stats.vercel.app/api?username=RenCrimwell&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenCrimwell&layout=compact&count_private=true&theme=tokyonight" alt="RenCrimwell" />
