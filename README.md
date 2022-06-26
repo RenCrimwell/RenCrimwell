@@ -28,8 +28,8 @@ And I like to sleep very much. ♡︎
 
 # My Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<a href="https://www.google.com/search?q=What+is+JavaScript&oq=What+is+JavaScript+&aqs=chrome..69i57j0i512l8.6908j1j4&client=ms-android-oppo&sourceid=chrome-mobile&ie=UTF-8#crs=q:books%20JavaScript,stick:H4sIAAAAAAAAAONgfcSYxC3w8sc9YanISWtOXmMM5uL0zCtJLSpOTS4REuFi9y9ILUrMSxHiFGLnYnXKz88uFjJAiKoKKXNxBqXmJJakpoTkC4lxsbnmlWSWVArxSHFxcejn6hsYFVia8yxiFUgCaVXwSixLDE4uyiwoAQAk1Kj3egAAAA,cid:overview" target="blank"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
