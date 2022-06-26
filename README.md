@@ -18,7 +18,7 @@ I'm 18 years old. :0
 
 I'm from countryyy ummm I better not tell. ;D
 
-I study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
+I used to study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en)
 
 And I like to sleep very much. ♡︎
 
