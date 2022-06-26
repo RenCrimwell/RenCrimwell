@@ -30,13 +30,13 @@ And I like to sleep very much. ♡︎
 
 <a href="https://en.m.wikipedia.org/wiki/JavaScript" target="blank"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </a>
-<a href="https://wiki.mozilla.org/CSS3" target="blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </a>
-<a href="https://en.m.wikipedia.org/wiki/Python_(programming_language)" target="blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>
+<a href="https://wiki.mozilla.org/CSS3" target="blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </a>
+<a href="https://en.m.wikipedia.org/wiki/Python_(programming_language)" target="blank"> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a>
 
 # My Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+<a href="https://en.m.wikipedia.org/wiki/Visual_Studio_Code" target="blank"> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </a>
+<a href="https://en.m.wikipedia.org/wiki/MongoDB" target="blank"> ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) </a>
+<a href="https://en.m.wikipedia.org/wiki/Node.js" target="blank"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) </a>
 
 
