@@ -2,7 +2,7 @@
   
 # Hola everyone <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> , I'm Ren!!
 
-I'm the owner and developer of a bot in Discord.
+I'm the owner and developer of a bot in [Discord.](https://en.m.wikipedia.org/wiki/Discord)
 
 I want to make my bot successful,  And I want to make my bot even better,  If you have any suggestions, Please [Contact Me.](https://discord.gg/FzECNwmfJS) 
 
