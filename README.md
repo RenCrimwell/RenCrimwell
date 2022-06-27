@@ -12,7 +12,7 @@ Thank you for your support in advance.
 
 # About Me
 
-My name is Ren and My Surname is Crimwell. (It may not be true c;)
+My name is Ren and My Surname is Crimwell.
 
 I'm 1_ years old. :0
 
