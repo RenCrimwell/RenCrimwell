@@ -14,7 +14,7 @@ Thank you for your support in advance.
 
 My name is Ren and My Surname is Crimwell.
 
-I'm 1_ years old. :0
+I'm 18+ years old. :0
 
 I'm from countryyy ummm I better not tell. ;D
 
