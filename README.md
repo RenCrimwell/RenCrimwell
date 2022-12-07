@@ -16,7 +16,7 @@ My name is Ren and My Surname is Crimwell.
 
 I'm - years old. :0
 
-I'm from countryyy ummm I better not tell. ;D
+I'm from countryyy ummm better not to say. ;D
 
 I used to study at [King's College International School Bangkok.](https://www.kingsbangkok.ac.th/en) and 
   [University of OXFORD](https://en.m.wikipedia.org/wiki/Oxford)
